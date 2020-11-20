@@ -25,7 +25,7 @@
     设计程序完成上述的业务逻辑处理，并且把“古诗处理后的输出”结果存储到学生基本信息所在的文本文件A中。
 
 ## 四、流程图
-       ![i](https://github.com/Chenlu-191/Forth-CL/blob/main/538404209260900750.jpg)
+       ![i]https://github.com/Chenlu-191/Fifth-Cl/blob/main/680002377447340975.png)
 ## 五、实验步骤
 ### 
     1.首先创建Student类和Test类两个类
@@ -77,7 +77,7 @@
             }
 
 ## 七、实验结果
-         ![i](https://github.com/Chenlu-191/Forth-CL/blob/main/538404209260900750.jpg)
+         ![i](https://github.com/Chenlu-191/Fifth-Cl/blob/main/390293891782976462.jpg)
  
 ## 八、实验感想
 ###   
